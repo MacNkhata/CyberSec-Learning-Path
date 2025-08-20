@@ -18,9 +18,9 @@ This repository documents my journey in building a cybersecurity home lab to pra
 -  Build a portfolio of attack/defense write-ups.
 
 ## 🏗️ Lab Topology
-'''Java 
+```Java 
 Kali Linux (Attacker) ---> pfSense Firewall ---> Windows Server 2022 (AD DC)
                                             ├─> Windows 10 (Workstation)
                                             ├─> Ubuntu Server (Wazuh SIEM)
                                             └─> DVWA / Juice Shop (Vulnerable Apps)
-'''
+```
