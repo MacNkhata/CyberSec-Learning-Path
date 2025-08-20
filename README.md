@@ -53,6 +53,6 @@ I’ll be documenting:
 
 Follow my journey on [LinkedIn](https://www.linkedin.com/in/macdonald-nkhata-8aab1025a/) & [Twitter/X](https://x.com/Mac_Nkhata)
 
-##🔖 Tags
+## 🔖 Tags
 
 #CyberSecurity #Pentesting #BlueTeam #RedTeam #SIEM #LearnInPublic
