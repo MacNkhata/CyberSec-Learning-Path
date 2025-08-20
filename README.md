@@ -7,12 +7,12 @@ This repository documents my journey in building a cybersecurity home lab to pra
 
 ## 🚀 Lab Objectives
 
-  Practice penetration testing (network, web apps, Active Directory).
+. Practice penetration testing (network, web apps, Active Directory).
 
-  Learn Active Directory attacks & defenses.
+.  Learn Active Directory attacks & defenses.
 
-  Configure and manage a firewall (pfSense).
+.  Configure and manage a firewall (pfSense).
 
-  Deploy and use a SIEM (Wazuh/ELK) for log monitoring & alerting.
+.  Deploy and use a SIEM (Wazuh/ELK) for log monitoring & alerting.
 
-  Build a portfolio of attack/defense write-ups.
+.  Build a portfolio of attack/defense write-ups.
